@@ -1,0 +1,3 @@
+[submodule "Plugins/UnrealCoroutine"]
+	path = Plugins/UnrealCoroutine
+	url = https://github.com/laycnc/UnrealCoroutine.git
