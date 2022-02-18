@@ -3,9 +3,10 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "ExampleBase01.generated.h"
 #include "GameFramework/Actor.h"
 #include "UncoObjectTask.h"
+#include "ExampleBase01.generated.h"
+
 class UStaticMeshComponent;
 
 UCLASS()
